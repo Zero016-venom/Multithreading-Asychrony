@@ -12,3 +12,4 @@ C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithr
 C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.pdb
 C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.genruntimeconfig.cache
 C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\ref\Task class.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.sourcelink.json

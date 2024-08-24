@@ -5,11 +5,21 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A single-threaded", "A single-threaded\A single-threaded.csproj", "{7C0A326C-ECBD-4846-8362-B60D912CC5DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreaded", "Multithreaded\Multithreaded.csproj", "{9EBB9FE7-E7EF-4FE8-BD9A-657EF0A6BECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multithreaded", "Multithreaded\Multithreaded.csproj", "{9EBB9FE7-E7EF-4FE8-BD9A-657EF0A6BECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPool", "ThreadPool\ThreadPool.csproj", "{6A922F8D-3595-4EF5-A8EA-88BFC7685276}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadPool", "ThreadPool\ThreadPool.csproj", "{6A922F8D-3595-4EF5-A8EA-88BFC7685276}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task class", "Task class\Task class.csproj", "{6DE47FC2-957F-440C-A8F7-9906EE0F12C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task class", "Task class\Task class.csproj", "{6DE47FC2-957F-440C-A8F7-9906EE0F12C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXERCISE_Tasks&waiting", "EXERCISE_Tasks&waiting\EXERCISE_Tasks&waiting.csproj", "{816B352F-BDF5-4E9F-8B2D-655AE9DDF88B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continuations", "Continuations\Continuations.csproj", "{073E1914-7C02-4639-80C0-E6E4B46C4BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXERCISE_Continuations", "EXERCISE_Continuations\EXERCISE_Continuations.csproj", "{F964915E-D2A7-4DA1-AEB6-3541B83F4A35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canceling a Task", "Canceling a Task\Canceling a Task.csproj", "{FB38D4C3-56E4-4894-801C-5C51107ACB6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{43D18385-9565-407C-B16F-65258573C8B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{6DE47FC2-957F-440C-A8F7-9906EE0F12C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DE47FC2-957F-440C-A8F7-9906EE0F12C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DE47FC2-957F-440C-A8F7-9906EE0F12C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816B352F-BDF5-4E9F-8B2D-655AE9DDF88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816B352F-BDF5-4E9F-8B2D-655AE9DDF88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816B352F-BDF5-4E9F-8B2D-655AE9DDF88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816B352F-BDF5-4E9F-8B2D-655AE9DDF88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073E1914-7C02-4639-80C0-E6E4B46C4BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073E1914-7C02-4639-80C0-E6E4B46C4BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073E1914-7C02-4639-80C0-E6E4B46C4BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073E1914-7C02-4639-80C0-E6E4B46C4BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F964915E-D2A7-4DA1-AEB6-3541B83F4A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F964915E-D2A7-4DA1-AEB6-3541B83F4A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F964915E-D2A7-4DA1-AEB6-3541B83F4A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F964915E-D2A7-4DA1-AEB6-3541B83F4A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB38D4C3-56E4-4894-801C-5C51107ACB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB38D4C3-56E4-4894-801C-5C51107ACB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB38D4C3-56E4-4894-801C-5C51107ACB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB38D4C3-56E4-4894-801C-5C51107ACB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D18385-9565-407C-B16F-65258573C8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D18385-9565-407C-B16F-65258573C8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D18385-9565-407C-B16F-65258573C8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D18385-9565-407C-B16F-65258573C8B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,14 +1,20 @@
 ﻿Console.WriteLine("Main thread's ID:" + Thread.CurrentThread.ManagedThreadId);
 
-Task<int> taskWithResult = Task.Run(() => CalculateLength("Good afternoon !"));
-Console.WriteLine("Length is: "+ taskWithResult.Result);
-
-string userInput;
-do
+var task1 = Task.Run(() =>
 {
-    Console.WriteLine("Enter a command: ");
-    userInput = Console.ReadLine();
-} while (userInput  != "exit");
+    Thread.Sleep(1000);
+    Console.WriteLine("Task 1 is finished.");
+});
+var task2 = Task.Run(() =>
+{
+    Thread.Sleep(2000);
+    Console.WriteLine("Task 2 is finished.");
+});
+Task.WaitAll(task1, task2); // đợi cho đến khi nhiệm vụ hoàn thành và mới chuyển sang dòng tiếp theo.
+Console.WriteLine("After the task.");
+
+
+
 Console.WriteLine("Program is finished.");
 Console.ReadKey();
 

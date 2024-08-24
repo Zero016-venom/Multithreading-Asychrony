@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hviet\\source\\repos\\Ultimate C# Masterclass for 2024\\Section 17 Multithreading \u0026 asynchrony\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DE47FC2-957F-440C-A8F7-9906EE0F12C1}|Task class\\Task class.csproj|c:\\users\\hviet\\source\\repos\\ultimate c# masterclass for 2024\\section 17 multithreading \u0026 asynchrony\\task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE47FC2-957F-440C-A8F7-9906EE0F12C1}|Task class\\Task class.csproj|solutionrelative:task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43D18385-9565-407C-B16F-65258573C8B5}|Exceptions\\Exceptions.csproj|c:\\users\\hviet\\source\\repos\\ultimate c# masterclass for 2024\\section 17 multithreading \u0026 asynchrony\\exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D18385-9565-407C-B16F-65258573C8B5}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hviet\\source\\repos\\Ultimate C# Masterclass for 2024\\Section 17 Multithreading \u0026 asynchrony\\Task class\\Program.cs",
-              "RelativeDocumentMoniker": "Task class\\Program.cs",
-              "ToolTip": "C:\\Users\\hviet\\source\\repos\\Ultimate C# Masterclass for 2024\\Section 17 Multithreading \u0026 asynchrony\\Task class\\Program.cs",
-              "RelativeToolTip": "Task class\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "DocumentMoniker": "C:\\Users\\hviet\\source\\repos\\Ultimate C# Masterclass for 2024\\Section 17 Multithreading \u0026 asynchrony\\Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Exceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\hviet\\source\\repos\\Ultimate C# Masterclass for 2024\\Section 17 Multithreading \u0026 asynchrony\\Exceptions\\Program.cs",
+              "RelativeToolTip": "Exceptions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T02:52:44.666Z",
+              "WhenOpened": "2024-08-24T11:58:58.669Z",
               "EditorCaption": ""
             }
           ]
