@@ -1,0 +1,14 @@
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\bin\Debug\net8.0\A single-threaded.exe
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\bin\Debug\net8.0\A single-threaded.deps.json
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\bin\Debug\net8.0\A single-threaded.runtimeconfig.json
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\bin\Debug\net8.0\A single-threaded.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\bin\Debug\net8.0\A single-threaded.pdb
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\obj\Debug\net8.0\A single-threaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\obj\Debug\net8.0\A single-threaded.AssemblyInfoInputs.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\obj\Debug\net8.0\A single-threaded.AssemblyInfo.cs
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\obj\Debug\net8.0\A single-threaded.csproj.CoreCompileInputs.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\obj\Debug\net8.0\A single-threaded.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\obj\Debug\net8.0\refint\A single-threaded.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\obj\Debug\net8.0\A single-threaded.pdb
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\obj\Debug\net8.0\A single-threaded.genruntimeconfig.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\A single-threaded\obj\Debug\net8.0\ref\A single-threaded.dll

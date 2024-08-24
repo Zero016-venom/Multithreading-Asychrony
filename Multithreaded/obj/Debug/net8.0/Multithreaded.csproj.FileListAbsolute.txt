@@ -1,0 +1,14 @@
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\bin\Debug\net8.0\Multithreaded.exe
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\bin\Debug\net8.0\Multithreaded.deps.json
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\bin\Debug\net8.0\Multithreaded.runtimeconfig.json
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\bin\Debug\net8.0\Multithreaded.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\bin\Debug\net8.0\Multithreaded.pdb
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\obj\Debug\net8.0\Multithreaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\obj\Debug\net8.0\Multithreaded.AssemblyInfoInputs.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\obj\Debug\net8.0\Multithreaded.AssemblyInfo.cs
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\obj\Debug\net8.0\Multithreaded.csproj.CoreCompileInputs.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\obj\Debug\net8.0\Multithreaded.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\obj\Debug\net8.0\refint\Multithreaded.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\obj\Debug\net8.0\Multithreaded.pdb
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\obj\Debug\net8.0\Multithreaded.genruntimeconfig.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Multithreaded\obj\Debug\net8.0\ref\Multithreaded.dll

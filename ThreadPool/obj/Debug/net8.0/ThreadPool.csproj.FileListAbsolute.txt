@@ -1,0 +1,14 @@
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\bin\Debug\net8.0\ThreadPool.exe
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\bin\Debug\net8.0\ThreadPool.deps.json
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\bin\Debug\net8.0\ThreadPool.runtimeconfig.json
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\bin\Debug\net8.0\ThreadPool.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\bin\Debug\net8.0\ThreadPool.pdb
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\obj\Debug\net8.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\obj\Debug\net8.0\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\obj\Debug\net8.0\ThreadPool.AssemblyInfo.cs
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\obj\Debug\net8.0\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\obj\Debug\net8.0\ThreadPool.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\obj\Debug\net8.0\refint\ThreadPool.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\obj\Debug\net8.0\ThreadPool.pdb
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\obj\Debug\net8.0\ThreadPool.genruntimeconfig.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\ThreadPool\obj\Debug\net8.0\ref\ThreadPool.dll

@@ -1,0 +1,14 @@
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\bin\Debug\net8.0\Task class.exe
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\bin\Debug\net8.0\Task class.deps.json
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\bin\Debug\net8.0\Task class.runtimeconfig.json
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\bin\Debug\net8.0\Task class.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\bin\Debug\net8.0\Task class.pdb
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.AssemblyInfoInputs.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.AssemblyInfo.cs
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.csproj.CoreCompileInputs.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\refint\Task class.dll
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.pdb
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\Task class.genruntimeconfig.cache
+C:\Users\hviet\source\repos\Ultimate C# Masterclass for 2024\Section 17 Multithreading & asynchrony\Task class\obj\Debug\net8.0\ref\Task class.dll

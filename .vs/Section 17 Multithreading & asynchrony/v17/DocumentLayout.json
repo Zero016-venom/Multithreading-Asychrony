@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hviet\\source\\repos\\Ultimate C# Masterclass for 2024\\Section 17 Multithreading \u0026 asynchrony\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE47FC2-957F-440C-A8F7-9906EE0F12C1}|Task class\\Task class.csproj|c:\\users\\hviet\\source\\repos\\ultimate c# masterclass for 2024\\section 17 multithreading \u0026 asynchrony\\task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE47FC2-957F-440C-A8F7-9906EE0F12C1}|Task class\\Task class.csproj|solutionrelative:task class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hviet\\source\\repos\\Ultimate C# Masterclass for 2024\\Section 17 Multithreading \u0026 asynchrony\\Task class\\Program.cs",
+              "RelativeDocumentMoniker": "Task class\\Program.cs",
+              "ToolTip": "C:\\Users\\hviet\\source\\repos\\Ultimate C# Masterclass for 2024\\Section 17 Multithreading \u0026 asynchrony\\Task class\\Program.cs",
+              "RelativeToolTip": "Task class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T02:52:44.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
